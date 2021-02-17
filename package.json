@@ -1,0 +1,28 @@
+{
+  "name": "compulsion-http",
+  "version": "1.0.0",
+  "description": "compulsion-http",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucajoos/compulsion-http.git"
+  },
+  "keywords": [
+    "compulsion-http"
+  ],
+  "author": "Luca Joos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucajoos/compulsion-http/issues"
+  },
+  "homepage": "https://github.com/lucajoos/compulsion-http#readme",
+  "devDependencies": {
+    "compulsion": "^1.0.1"
+  },
+  "dependencies": {
+    "onceupon.js": "^1.5.5"
+  }
+}
